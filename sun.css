@@ -1,0 +1,37 @@
+.main
+{
+    /* background-color: yellow; */
+    height: 630px;
+    width: 100%;
+
+    background-image: linear-gradient(to left,white, orange, orange, red, orange, orange,white);
+
+    /* background-image: url(https://media2.giphy.com/media/PbOaO2fedzQLm/200w.gif?cid=6c09b9526xk3a4rtaeepropdlv29hmxf6ppa2e8zdn2f831z&ep=v1_gifs_search&rid=200w.gif&ct=g);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.c1
+{
+
+    height: 200px;
+    /* background-color: red; */
+    margin: auto;
+    width: 100%;
+    /* border: 3px solid green; */
+    padding: 10px;
+    text-align: center;
+    
+  
+   
+    
+}
+.c3
+{
+    height: 100px;
+    /* background-color: red; */
+    margin: auto;
+    width: 80%;
+    /* border: 3px solid green; */
+    padding: 100px;
+    padding-top: 30px;
+}
